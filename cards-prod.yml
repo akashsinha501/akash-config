@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Capgemini cards related Production APIs"
+  message: "Welcome to Capgemini cards related prod APIs"
   contactDetails:
     name: "Dinesh Kumar SA"
     email: "dinesh.kumar.sa@sc.com"
