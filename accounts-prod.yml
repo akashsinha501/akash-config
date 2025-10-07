@@ -10,7 +10,7 @@ accounts:
   message: "Welcome to Capgemini accounts related production APIs"
   contactDetails:
     name: "Dinesh Kumar SA"
-    email: "{cipher}6d3bcfc57285c189199206d0408d56d028f2e1a3a65b3ecb82c644654704fcab692cb1a9347a229ebf98e28e5a5ec0ef"
+    email: "dinesh.kumar@gmail.com"
   onCallSupport:
     - "+91 7042569459"
     - "+91 8956783809"
